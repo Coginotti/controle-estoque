@@ -1,0 +1,190 @@
+[
+    {
+        "Id": 1,
+        "Descricao": "BUZINA"
+    },
+    {
+        "Id": 2,
+        "Descricao": "CINTO DE SEGURANÇA"
+    },
+    {
+        "Id": 3,
+        "Descricao": "QUEBRA SOL"
+    },
+    {
+        "Id": 4,
+        "Descricao": "RETROVISOR INTERNO"
+    },
+    {
+        "Id": 5,
+        "Descricao": "RETROVISOR -DIREITO/ESQUERDO"
+    },
+    {
+        "Id": 6,
+        "Descricao": "LIMPADOR DE PÁRA-BRISA"
+    },
+    {
+        "Id": 7,
+        "Descricao": "LIMPADOR PÁRA-BRISA TRASEIRO"
+    },
+    {
+        "Id": 8,
+        "Descricao": "FAROL BAIXO"
+    },
+    {
+        "Id": 9,
+        "Descricao": "FAROL ALTO"
+    },
+    {
+        "Id": 10,
+        "Descricao": "MEIA LUZ"
+    },
+    {
+        "Id": 11,
+        "Descricao": "LUZ DE FREIO"
+    },
+    {
+        "Id": 12,
+        "Descricao": "LUZ DE RÉ"
+    },
+    {
+        "Id": 13,
+        "Descricao": "LUZ DA PLACA"
+    },
+    {
+        "Id": 14,
+        "Descricao": "LUZES DO PAINEL"
+    },
+    {
+        "Id": 15,
+        "Descricao": "SETA – DIREITA/ESQUERDA"
+    },
+    {
+        "Id": 16,
+        "Descricao": "PISCA ALERTA"
+    },
+    {
+        "Id": 17,
+        "Descricao": "LUZ INTERNA"
+    },
+    {
+        "Id": 18,
+        "Descricao": "VELOCÍMETRO / TACÓGRAFO"
+    },
+    {
+        "Id": 19,
+        "Descricao": "FREIOS"
+    },
+    {
+        "Id": 20,
+        "Descricao": "MACACO"
+    },
+    {
+        "Id": 21,
+        "Descricao": "CHAVE DE RODA"
+    },
+    {
+        "Id": 22,
+        "Descricao": "TRIÂNGULO DE SINALIZAÇÃO"
+    },
+    {
+        "Id": 23,
+        "Descricao": "EXTINTOR DE INCÊNDIO"
+    },
+    {
+        "Id": 24,
+        "Descricao": "PORTAS – TRAVAS"
+    },
+    {
+        "Id": 25,
+        "Descricao": "ALARME"
+    },
+    {
+        "Id": 26,
+        "Descricao": "FECHAMENTO DAS JANELAS"
+    },
+    {
+        "Id": 27,
+        "Descricao": "PÁRA-BRISA"
+    },
+    {
+        "Id": 28,
+        "Descricao": "ÓLEO DO MOTOR"
+    },
+    {
+        "Id": 29,
+        "Descricao": "ÓLEO DE FREIO"
+    },
+    {
+        "Id": 30,
+        "Descricao": "NÍVEL DA ÁGUA DO RADIADOR"
+    },
+    {
+        "Id": 31,
+        "Descricao": "PNEUS (ESTADO/CALIBRAGEM)"
+    },
+    {
+        "Id": 32,
+        "Descricao": "PNEU RESERVA (ESTEPE)"
+    },
+    {
+        "Id": 33,
+        "Descricao": "BANCOS ENCOSTO/ASSENTOS"
+    },
+    {
+        "Id": 34,
+        "Descricao": "PÁRA-CHOQUE DIANTEIRO"
+    },
+    {
+        "Id": 35,
+        "Descricao": "PÁRA-CHOQUE TRASEIRO"
+    },
+    {
+        "Id": 36,
+        "Descricao": "LATARIA"
+    },
+    {
+        "Id": 37,
+        "Descricao": "QUILOMETRAGEM"
+    },
+    {
+        "Id": 38,
+        "Descricao": "HORIMETRO"
+    },
+    {
+        "Id": 39,
+        "Descricao": "TESTE"
+    },
+    {
+        "Id": 40,
+        "Descricao": "teste 2"
+    },
+    {
+        "Id": 41,
+        "Descricao": "TESTE 3"
+    },
+    {
+        "Id": 42,
+        "Descricao": "TESTE 4"
+    },
+    {
+        "Id": 43,
+        "Descricao": "TESTE 5"
+    },
+    {
+        "Id": 44,
+        "Descricao": "teste 6"
+    },
+    {
+        "Id": 45,
+        "Descricao": "teste 7"
+    },
+    {
+        "Id": 46,
+        "Descricao": "teste 8"
+    },
+    {
+        "Id": 47,
+        "Descricao": "teste 9"
+    }
+]
